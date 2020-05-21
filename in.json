@@ -1,0 +1,116 @@
+{
+  "humans": [
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "creationDate": "2020-05-21",
+      "realHero": true,
+      "hasToothpick": true,
+      "impactSpeed": 1.0,
+      "weaponType": "BAT",
+      "mood": "GLOOM",
+      "car": {
+        "name": "1"
+      }
+    }
+  ]
+}

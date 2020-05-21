@@ -1,0 +1,12 @@
+add
+1
+1
+1
+true
+true
+1
+bat
+gloom
+1
+execute_script /Users/denis_martsenyuk/Desktop/РИТА/programming/Lab6/Lab6/Client/k.txt
+info
